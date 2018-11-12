@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_loadMusic">All Songs</string>
+    <string name="category_now_playing">Now Playing...</string>
+
+
+</resources>
